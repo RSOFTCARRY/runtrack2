@@ -1,0 +1,117 @@
+
+.flavicon { 
+    width: 1240px;
+  /* border: 5px solid rgb(111,41,97); */
+  /* border-radius: .3em; */
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+
+.P
+ {
+    display:flex; flex -direction: row;
+    
+}
+.bann
+{ border : solid 1px green;
+     display:flex; font-display: row;
+    }
+
+
+     /* .bouton */
+     {border : solid 1px blue;
+        display:flex; font-display: row;
+    
+    }
+.bann
+{width: 1240px;
+    border: 5px solid rgb(111,41,97); */
+    border-radius: .3em; */
+    padding: 10px;
+    display: flex;
+    align-items: center;}
+
+.experiences
+{}
+
+.mettremonlogementsurAirbnb
+{}
+
+.bouton
+{width: 1240px;
+    border: 5px solid rgb(111,41,97);
+    border-radius: .1em;
+    padding: 5px;
+    display: flex;
+    align-items: center;}
+
+.destination
+{}
+
+.Voyageurs
+{}
+
+.cabane
+{}
+
+.campagne
+{}
+
+.lac
+{}
+
+.mer
+{}
+
+
+.piscine
+{}
+
+.vin
+{}
+
+.Vue
+{}
+
+.ligne1
+{width: 1240px;
+    /* border: 5px solid rgb(111,41,97); */
+    /* border-radius: .3em; */
+    padding: 20px;
+    display: flex;
+    align-items: center;}
+
+.ligne2
+{width: 1240px;
+    /* border: 5px solid rgb(111,41,97); */
+    /* border-radius: .3em; */
+    padding: 20px;
+    display: flex;
+    align-items: center;}
+
+.futur
+{}
+
+.horloge
+{}
+
+.mongolfier
+{}
+
+.monument
+{}
+
+.bollywood
+{}
+
+.costume
+{}
+
+.xavier
+{}
+
+.feid
+{}
+
