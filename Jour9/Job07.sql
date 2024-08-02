@@ -1,0 +1,1 @@
+select * from etudiants where naissance<= "2006-07-31";

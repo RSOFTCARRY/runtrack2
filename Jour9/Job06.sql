@@ -1,0 +1,1 @@
+SELECT * from `etudiants` where LEFT (prenom,1)= "T"
